@@ -14,4 +14,7 @@ public class DomainTest {
         User user = new User(001,"china","123456");
         user.Show(user);
     }
+    public void test(){
+        System.out.println("233");
+    }
 }
